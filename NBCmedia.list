@@ -1,11 +1,27 @@
-# NBC&CWTV 国外媒体
+# NBC 国外媒体
 DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,nbc.co
 DOMAIN-SUFFIX,nbcuni.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,d1tcwf12y4kqv3.cloudfront.net
+DOMAIN-SUFFIX,d2h189c4a9rfw5.cloudfront.net
+DOMAIN-SUFFIX,dq0zd76k0g3kr.cloudfront.net
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,vtwenty.com
+DOMAIN-SUFFIX,adsafeprotected.com
+DOMAIN-SUFFIX,elasticbeanstalk.com
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,mobile-data.onetrust.io
+DOMAIN-SUFFIX,brightline.tv
+DOMAIN-SUFFIX,fp-keyos.licensekeyserver.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,api.iterable.com
+DOMAIN-SUFFIX,mparticle.map.fastly.net
+DOMAIN-SUFFIX,nbcume.hb-api.omtrdc.net
+DOMAIN-SUFFIX,mnbcume.sc.omtrdc.net
+
+#CWTV 国外媒体
 DOMAIN-SUFFIX,cwtv.com
 DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,onetrust.com
