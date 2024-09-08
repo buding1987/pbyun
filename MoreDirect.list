@@ -6,6 +6,12 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,gigsgigscloud.com
 DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,gigsgigscloud.com
+DOMAIN-SUFFIX,speedtest.com
+DOMAIN-SUFFIX,cdn-debian.org
+DOMAIN-SUFFIX,bestgosht.com
+DOMAIN-SUFFIX,brahmin12.com
+DOMAIN-SUFFIX,besttarik.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
