@@ -14,7 +14,8 @@ DOMAIN-SUFFIX,bestgosht.com
 DOMAIN-SUFFIX,brahmin12.com
 DOMAIN-SUFFIX,besttarik.com
 DOMAIN-SUFFIX,intel.com
-
+DOMAIN-SUFFIX,smtp
+DOMAIN-KEYWORD,aria2
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
