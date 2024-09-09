@@ -5,6 +5,10 @@ DOMAIN-SUFFIX,nbcuni.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,sp.auth.adobe.com
 DOMAIN-SUFFIX,mparticle.com
+DOMAIN-SUFFIX,identity.mparticle.com
+DOMAIN-SUFFIX,config2.mparticle.com
+DOMAIN-SUFFIX,mparticle.map.fastly.net
+DOMAIN-SUFFIX,sp.auth.adobe.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,nervoussummer.com
 DOMAIN-SUFFIX,sp-gw.adobepass.com
@@ -24,7 +28,6 @@ DOMAIN-SUFFIX,brightline.tv
 DOMAIN-SUFFIX,fp-keyos.licensekeyserver.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,api.iterable.com
-DOMAIN-SUFFIX,mparticle.map.fastly.net
 DOMAIN-SUFFIX,nbcume.hb-api.omtrdc.net
 DOMAIN-SUFFIX,nbcume.sc.omtrdc.net
 DOMAIN-SUFFIX,usanetwork.com
