@@ -1,3 +1,8 @@
+#不清楚待检测
+- DOMAIN-SUFFIX,api-ipv4.ip.sb,REJECT
+- DOMAIN-SUFFIX,api.ipify.org,REJECT
+- DOMAIN-SUFFIX,stat.xtom.com,REJECT
+#nbc
 - DOMAIN-SUFFIX,pubads.g.doubleclick.net,DIRECT
 - DOMAIN-SUFFIX,tracker.nbcuas.com,REJECT
 - DOMAIN-SUFFIX,census.ap-southeast-1.nielsencollections.com,REJECT
