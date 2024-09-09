@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,sp.auth.adobe.com
 DOMAIN-SUFFIX,mparticle.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,nervoussummer.com
+DOMAIN-SUFFIX,sp-gw.adobepass.com
 DOMAIN-SUFFIX,dcs-public-edge-tyo3-1735284737.ap-northeast-1.elb.amazonaws.com
 DOMAIN-SUFFIX,d1tcwf12y4kqv3.cloudfront.net
 DOMAIN-SUFFIX,d2h189c4a9rfw5.cloudfront.net
