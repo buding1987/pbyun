@@ -4,6 +4,9 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,xcloudstar.xyz
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,gigsgigscloud.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,speedtest.net
