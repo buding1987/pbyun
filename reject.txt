@@ -4,7 +4,8 @@
 - DOMAIN-SUFFIX,bifrost-app-error-us-east-1-kaas-blue.sre.nielsen.com,REJECT
 - DOMAIN-SUFFIX,video-ads-module.ad-tech.nbcuni.com,REJECT
 - DOMAIN-SUFFIX,redirector.googlevideo.com,REJECT
-
+- DOMAIN-SUFFIX,cws-iad1.conviva.com
+- DOMAIN-SUFFIX,cws-iad4.conviva.com
 #else
 - DOMAIN-SUFFIX,realsrv.com,REJECT
 - DOMAIN-SUFFIX,adxadserv.com,REJECT
