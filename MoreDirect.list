@@ -3,6 +3,10 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,jsinfo.net
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-KEYWORD,speedtest
+#speedtest 结束
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,xcloudstar.xyz
