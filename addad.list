@@ -12,9 +12,9 @@ DOMAIN-SUFFIX,a.pemsrv.com
 DOMAIN-SUFFIX,s.pemsrv.com
 DOMAIN-SUFFIX,a.magsrv.com
 DOMAIN-SUFFIX,s.magsrv.com
-DOMAIN-SUFFIXs,stats.fin.ovh
-DOMAIN-SUFFIXs,prvc.io
-DOMAIN-SUFFIXs,poweredby.jads.co
+DOMAIN-SUFFIX,stats.fin.ovh
+DOMAIN-SUFFIX,prvc.io
+DOMAIN-SUFFIX,poweredby.jads.co
 DOMAIN-SUFFIX,eyebrowscrambledlater.com
 DOMAIN-SUFFIX,nawpush.com
 DOMAIN-SUFFIX,fractionfridgejudiciary.com
