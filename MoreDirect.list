@@ -20,6 +20,10 @@ DOMAIN-SUFFIX,besttarik.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,smtp
 DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,kankun-smartplug.com
+DOMAIN-KEYWORD,konkek2.com
+DOMAIN-KEYWORD,shop.ikonke.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
