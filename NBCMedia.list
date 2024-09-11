@@ -5,8 +5,6 @@ DOMAIN-SUFFIX,nbcuni.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,sp.auth.adobe.com
 DOMAIN-SUFFIX,mparticle.com
-DOMAIN-SUFFIX,identity.mparticle.com
-DOMAIN-SUFFIX,config2.mparticle.com
 DOMAIN-SUFFIX,mparticle.map.fastly.net
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,nervoussummer.com
@@ -31,7 +29,6 @@ DOMAIN-SUFFIX,nbcume.hb-api.omtrdc.net
 DOMAIN-SUFFIX,nbcume.sc.omtrdc.net
 DOMAIN-SUFFIX,usanetwork.com
 DOMAIN-SUFFIX,nbcu.track.securedvisit.com
-DOMAIN-SUFFIX,pagead2.googlesyndication.com
 DOMAIN-SUFFIX,mediatailor.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,ocsp.digicert.com
