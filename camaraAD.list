@@ -5,6 +5,6 @@ DOMAIN-SUFFIX,ssdk-sg.pangle.io
 DOMAIN-SUFFIX,api16-access-sg.pangle.io
 DOMAIN-SUFFIX,adx-os.anythinktech.com
 DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net
-DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
-DOMAIN-SUFFIX,securepubads.g.doubleclick.net,REJECT
-DOMAIN-SUFFIX,pagead2.googlesyndication.com,REJECT
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,securepubads.g.doubleclick.net
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
