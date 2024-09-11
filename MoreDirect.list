@@ -5,8 +5,8 @@
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,jsinfo.net
 DOMAIN-SUFFIX,ooklaserver.net
-DOMAIN-KEYWORD,speedtest
 #speedtest 结束
+
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,xcloudstar.xyz
@@ -18,14 +18,14 @@ DOMAIN-SUFFIX,bestgosht.com
 DOMAIN-SUFFIX,brahmin12.com
 DOMAIN-SUFFIX,besttarik.com
 DOMAIN-SUFFIX,intel.com
-DOMAIN-SUFFIX,smtp
-DOMAIN-KEYWORD,aria2
-DOMAIN-KEYWORD,kankun-smartplug.com
-DOMAIN-KEYWORD,konkek2.com
-DOMAIN-KEYWORD,shop.ikonke.com
+DOMAIN-SUFFIX,kankun-smartplug.com
+DOMAIN-SUFFIX,konkek2.com
+DOMAIN-SUFFIX,ikonke.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,speedtest
+DOMAIN-KEYWORD,smtp
+DOMAIN-KEYWORD,aria2
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
