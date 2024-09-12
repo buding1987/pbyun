@@ -5,7 +5,10 @@
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,jsinfo.net
 DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN,www.nvdvr.cn
+DOMAIN,www.nvcam.net
 DOMAIN,www.nvdvr.net
+
 #speedtest 结束
 
 DOMAIN-SUFFIX,time.windows.com
