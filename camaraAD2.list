@@ -1,4 +1,6 @@
-DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,ad.nvdvr.net
+DOMAIN-SUFFIX,anquan.nvdvr.cn
+DOMAIN-SUFFIX,promotionad.nvcam.net
 DOMAIN-SUFFIX,sis.jpush.io
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
@@ -20,7 +22,6 @@ DOMAIN,mssdk.volces.com
 DOMAIN,open.e.kuaishou.cn
 DOMAIN,open.e.kuaishou.com
 DOMAIN,pangolin16.sgsnssdk.com
-DOMAIN,pushregcheck.nvcam.net
 DOMAIN,sdk.e.qq.com
 DOMAIN,ssdk-sg.pangle.io
 DOMAIN,tk.anythinktech.com
@@ -31,3 +32,11 @@ DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,globalsign.com
 IP-CIDR,114.132.165.205/32,no-resolve
+#NBC AD
+DOMAIN-SUFFIX,census.ap-southeast-1.nielsencollections.com
+DOMAIN-SUFFIX,bifrost-app-error-us-east-1-kaas-blue.sre.nielsen.com
+DOMAIN-SUFFIX,video-ads-module.ad-tech.nbcuni.com
+DOMAIN-SUFFIX,redirector.googlevideo.com
+DOMAIN-SUFFIX,media.cwtv.com
+DOMAIN-SUFFIX,v.fwmrm.net
+DOMAIN-SUFFIX,innovid.com
