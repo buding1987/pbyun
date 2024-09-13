@@ -1,3 +1,12 @@
+#NBC AD
+DOMAIN-SUFFIX,census.ap-southeast-1.nielsencollections.com
+DOMAIN-SUFFIX,bifrost-app-error-us-east-1-kaas-blue.sre.nielsen.com
+DOMAIN-SUFFIX,video-ads-module.ad-tech.nbcuni.com
+DOMAIN-SUFFIX,redirector.googlevideo.com
+DOMAIN-SUFFIX,media.cwtv.com
+DOMAIN-SUFFIX,v.fwmrm.net
+DOMAIN-SUFFIX,innovid.com
+#ad
 DOMAIN-SUFFIX,0b9b5eada8.com
 DOMAIN-SUFFIX,0ef2473ad8.com
 DOMAIN-SUFFIX,23cc6cc4e9.com
