@@ -46,6 +46,11 @@ DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,smtp
 DOMAIN-KEYWORD,aria2
 
+#QQ MUSIC
+DOMAIN-SUFFIX,cdntips.net
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,usertrust.com
+
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
