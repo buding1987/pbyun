@@ -77,7 +77,11 @@ DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,i8tq.com
 DOMAIN-SUFFIX,weather.com.cn
 DOMAIN-SUFFIX,weather.com
-
+#unicom
+DOMAIN-SUFFIX,ulecdn.com
+DOMAIN-SUFFIX,ule.com
+DOMAIN-SUFFIX,unicompayment.com
+DOMAIN-SUFFIX,mob.com
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
