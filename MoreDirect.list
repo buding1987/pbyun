@@ -3,6 +3,7 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,jsinfo.net
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,cloud.av380.net
