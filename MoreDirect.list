@@ -3,10 +3,13 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,gtja.com
-DOMAIN-SUFFIX,5ifund.com
 DOMAIN-SUFFIX,10jqka.com.cn
-DOMAIN-SUFFIX,community.touzime.com
+DOMAIN-SUFFIX,5ifund.com
+DOMAIN-SUFFIX,touzime.com
+DOMAIN-SUFFIX,touzime.net
+DOMAIN-SUFFIX,myhithink.com
+DOMAIN-SUFFIX,gtja.com
+DOMAIN-SUFFIX,gtjadev.com
 DOMAIN-SUFFIX,hxkba.com
 DOMAIN-SUFFIX,crl.digicert-cn.com
 DOMAIN-SUFFIX,pubads.g.doubleclick.net
