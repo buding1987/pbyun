@@ -13,8 +13,6 @@ DOMAIN-SUFFIX,gtjadev.com
 DOMAIN-SUFFIX,hxkba.com
 DOMAIN-SUFFIX,crl.digicert-cn.com
 DOMAIN-SUFFIX,pubads.g.doubleclick.net
-DOMAIN-SUFFIX,jsinfo.net
-DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,cloud.av380.net
 DOMAIN-SUFFIX,pcdispa1.av380.net
 DOMAIN-SUFFIX,updateapp.av380.net
@@ -22,8 +20,7 @@ DOMAIN,www.nvdvr.cn
 DOMAIN,www.nvcam.net
 DOMAIN,www.nvdvr.net
 
-#speedtest 结束
-
+#无具体规则
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,xcloudstar.xyz
@@ -46,8 +43,12 @@ DOMAIN-SUFFIX,xbase.cloud
 #全球时间同步服务:pool.ntp.org
 DOMAIN-SUFFIX,pool.ntp.org
 
-# 域名关键字匹配
+#speedtest 
+DOMAIN-SUFFIX,jsinfo.net
+DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-KEYWORD,speedtest
+
+# 域名关键字匹配
 DOMAIN-KEYWORD,smtp
 DOMAIN-KEYWORD,aria2
 
