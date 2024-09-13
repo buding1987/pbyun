@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,66mobi.com
 DOMAIN-SUFFIX,sis.jpush.io
 DOMAIN-SUFFIX,gdfp.gifshow.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+#待看api-access.pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,gromore.pangolin-sdk-toutiao.com
@@ -38,11 +39,3 @@ DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,globalsign.com
 IP-CIDR,114.132.165.205/32,no-resolve
-#NBC AD
-DOMAIN-SUFFIX,census.ap-southeast-1.nielsencollections.com
-DOMAIN-SUFFIX,bifrost-app-error-us-east-1-kaas-blue.sre.nielsen.com
-DOMAIN-SUFFIX,video-ads-module.ad-tech.nbcuni.com
-DOMAIN-SUFFIX,redirector.googlevideo.com
-DOMAIN-SUFFIX,media.cwtv.com
-DOMAIN-SUFFIX,v.fwmrm.net
-DOMAIN-SUFFIX,innovid.com
