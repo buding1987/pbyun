@@ -41,6 +41,11 @@ DOMAIN-SUFFIX,konkek2.com
 DOMAIN-SUFFIX,ikonke.com
 DOMAIN-SUFFIX,lanzov.com
 
+#xunlei
+DOMAIN-SUFFIX,xbase.cloud
+#全球时间同步服务:pool.ntp.org
+DOMAIN-SUFFIX,pool.ntp.org
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,smtp
