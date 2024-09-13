@@ -3,6 +3,12 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,gtja.com
+DOMAIN-SUFFIX,5ifund.com
+DOMAIN-SUFFIX,10jqka.com.cn
+DOMAIN-SUFFIX,community.touzime.com
+DOMAIN-SUFFIX,hxkba.com
+DOMAIN-SUFFIX,crl.digicert-cn.com
 DOMAIN-SUFFIX,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,jsinfo.net
 DOMAIN-SUFFIX,ooklaserver.net
@@ -31,7 +37,6 @@ DOMAIN-SUFFIX,kankun-smartplug.com
 DOMAIN-SUFFIX,konkek2.com
 DOMAIN-SUFFIX,ikonke.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,10jqka.com.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,speedtest
