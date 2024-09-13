@@ -68,6 +68,11 @@ DOMAIN-SUFFIX,antpcdn.com
 #douyin
 DOMAIN-SUFFIX,idouyinvod.com
 DOMAIN-SUFFIX,douyinvod.com
+#天气
+DOMAIN-SUFFIX,i8tq.com
+DOMAIN-SUFFIX,weather.com.cn
+DOMAIN-SUFFIX,weather.com
+
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
