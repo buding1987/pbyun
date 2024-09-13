@@ -87,8 +87,11 @@ DOMAIN-SUFFIX,ule.com
 DOMAIN-SUFFIX,unicompayment.com
 DOMAIN-SUFFIX,mob.com
 #kuaishou
+DOMAIN-SUFFIX,bcelive.com
+DOMAIN-SUFFIX,becukwai.com
 DOMAIN-SUFFIX,cdnhwc1.com
 DOMAIN-SUFFIX,cdnhwc2.com
+DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-SUFFIX,inkuai.com
 DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,kuaishouzt.com
@@ -96,8 +99,11 @@ DOMAIN-SUFFIX,kwaicdn.com
 DOMAIN-SUFFIX,kwaixiaodian.com
 DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,live-voip.com
 DOMAIN-SUFFIX,queniukr.com
 DOMAIN-SUFFIX,xxpkg.com
+DOMAIN-SUFFIX,xyxyzz.com
+DOMAIN-SUFFIX,zxzt123.com
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
