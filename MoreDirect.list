@@ -65,7 +65,9 @@ DOMAIN-SUFFIX,alibaba-inc.com
 
 #BAIDUpan
 DOMAIN-SUFFIX,antpcdn.com
-
+#douyin
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,douyinvod.com
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
