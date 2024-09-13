@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,pool.ntp.org
 #speedtest 
 DOMAIN-SUFFIX,jsinfo.net
 DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,trackcmp.net
 DOMAIN-KEYWORD,speedtest
 
 # 域名关键字匹配
