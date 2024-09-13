@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,jsinfo.net
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,trackcmp.net
 DOMAIN-SUFFIX,zdbb.net
+DOMAIN-SUFFIX,prism.app-us1.com
 DOMAIN-KEYWORD,speedtest
 
 # 域名关键字匹配
