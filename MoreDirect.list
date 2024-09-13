@@ -89,6 +89,8 @@ DOMAIN-SUFFIX,mob.com
 #kuaishou
 DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,becukwai.com
+DOMAIN-SUFFIX,eckwai.com
+DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,cdnhwc1.com
 DOMAIN-SUFFIX,cdnhwc2.com
 DOMAIN-SUFFIX,httpdns.pro
@@ -104,7 +106,6 @@ DOMAIN-SUFFIX,queniukr.com
 DOMAIN-SUFFIX,xxpkg.com
 DOMAIN-SUFFIX,xyxyzz.com
 DOMAIN-SUFFIX,zxzt123.com
-DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,video-voip.com
 DOMAIN-SUFFIX,etoote.com
 DOMAIN-SUFFIX,shukwai.com
