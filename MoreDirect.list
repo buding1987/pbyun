@@ -75,9 +75,7 @@ DOMAIN-SUFFIX,alibaba-inc.com
 
 #BAIDUpan
 DOMAIN-SUFFIX,antpcdn.com
-#douyin
-DOMAIN-SUFFIX,idouyinvod.com
-DOMAIN-SUFFIX,douyinvod.com
+
 #天气
 DOMAIN-SUFFIX,i8tq.com
 DOMAIN-SUFFIX,weather.com.cn
@@ -87,7 +85,13 @@ DOMAIN-SUFFIX,ulecdn.com
 DOMAIN-SUFFIX,ule.com
 DOMAIN-SUFFIX,unicompayment.com
 DOMAIN-SUFFIX,mob.com
+#douyin
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,douyinvod.com
 #kuaishou
+DOMAIN-SUFFIX,weilayun.com
+DOMAIN-SUFFIX,ks-live.com
+DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,becukwai.com
 DOMAIN-SUFFIX,adkwai.com
