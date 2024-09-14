@@ -1,8 +1,11 @@
+DOMAIN-SUFFIX,securepubads.g.doubleclick.net
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
 #NBC app AD
 DOMAIN-SUFFIX,census.ap-southeast-1.nielsencollections.com
 DOMAIN-SUFFIX,bifrost-app-error-us-east-1-kaas-blue.sre.nielsen.com
 DOMAIN-SUFFIX,video-ads-module.ad-tech.nbcuni.com
 DOMAIN-SUFFIX,redirector.googlevideo.com
+DOMAIN-SUFFIX,tracker.nbcuas.com
 DOMAIN-SUFFIX,media.cwtv.com
 DOMAIN-SUFFIX,v.fwmrm.net
 DOMAIN-SUFFIX,innovid.com
