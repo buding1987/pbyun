@@ -12,14 +12,13 @@ DOMAIN-SUFFIX,myhithink.com
 DOMAIN-SUFFIX,gtja.com
 DOMAIN-SUFFIX,gtjadev.com
 DOMAIN-SUFFIX,hxkba.com
-DOMAIN-SUFFIX,crl.digicert-cn.com
+DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,pubads.g.doubleclick.net
-DOMAIN-SUFFIX,cloud.av380.net
-DOMAIN-SUFFIX,pcdispa1.av380.net
-DOMAIN-SUFFIX,updateapp.av380.net
+DOMAIN-SUFFIX,av380.net
 DOMAIN,www.nvdvr.cn
 DOMAIN,www.nvcam.net
 DOMAIN,www.nvdvr.net
+DOMAIN,global-cdn.me
 
 #无具体规则
 DOMAIN-SUFFIX,time.windows.com
