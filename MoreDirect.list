@@ -15,9 +15,9 @@ DOMAIN-SUFFIX,hxkba.com
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,av380.net
-DOMAIN,www.nvdvr.cn
-DOMAIN,www.nvcam.net
-DOMAIN,www.nvdvr.net
+DOMAIN-SUFFIX,www.nvdvr.cn
+DOMAIN-SUFFIX,www.nvcam.net
+DOMAIN-SUFFIX,www.nvdvr.net
 
 #无具体规则
 DOMAIN-SUFFIX,time.windows.com
@@ -57,10 +57,6 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,trackcmp.net
 DOMAIN-SUFFIX,zdbb.net
 DOMAIN-KEYWORD,speedtest
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,smtp
-DOMAIN-KEYWORD,aria2
 
 #QQ MUSIC
 DOMAIN-SUFFIX,cdntips.net
@@ -129,8 +125,6 @@ DOMAIN-SUFFIX,n45lxpvts.com
 DOMAIN-SUFFIX,hpnoualts.com
 #DOMAIN-SUFFIX,cloudflare-cn.com
 #DOMAIN-SUFFIX,cloudflareinsights.com
-# IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
@@ -143,3 +137,10 @@ IP-CIDR,223.6.6.6/32,no-resolve
 IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
+
+# IP段匹配
+IP-CIDR,219.146.1.66/32,no-resolve
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,smtp
+DOMAIN-KEYWORD,aria2
