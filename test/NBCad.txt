@@ -11,7 +11,6 @@
 - DOMAIN-SUFFIX,innovid.com,🛑 广告拦截
 - DOMAIN-SUFFIX,ad-tech.nbcuni.com,🛑 广告拦截
 - DOMAIN-SUFFIX,tracker.nbcuas.com,🛑 广告拦截
-- DOMAIN-SUFFIX,mparticle.com,🛑 广告拦截
 #不清楚
 - DOMAIN-SUFFIX,appsflyersdk.com,🛑 广告拦截
 - DOMAIN-SUFFIX,adt.hrzn-nxt.com,🛑 广告拦截
