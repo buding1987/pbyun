@@ -1,0 +1,19 @@
+#NBC&CWTV
+- DOMAIN-SUFFIX,pubads.g.doubleclick.net,🎯 全球直连
+- DOMAIN-SUFFIX,securepubads.g.doubleclick.net,🛑 广告拦截
+- DOMAIN-SUFFIX,googleads.g.doubleclick.net,🛑 广告拦截
+- DOMAIN-SUFFIX,doubleclick.net,🛑 广告拦截
+- DOMAIN-SUFFIX,branch.io,🛑 广告拦截
+- DOMAIN-SUFFIX,imrworldwide.com,🛑 广告拦截
+- DOMAIN-SUFFIX,scorecardresearch.com,🛑 广告拦截
+- DOMAIN-SUFFIX,fwmrm.net,🛑 广告拦截
+- DOMAIN-SUFFIX,redirector.googlevideo.com,🛑 广告拦截
+- DOMAIN-SUFFIX,innovid.com,🛑 广告拦截
+- DOMAIN-SUFFIX,ad-tech.nbcuni.com,🛑 广告拦截
+- DOMAIN-SUFFIX,tracker.nbcuas.com,🛑 广告拦截
+- DOMAIN-SUFFIX,mparticle.com,🛑 广告拦截
+#不清楚
+- DOMAIN-SUFFIX,appsflyersdk.com,🛑 广告拦截
+- DOMAIN-SUFFIX,adt.hrzn-nxt.com,🛑 广告拦截
+- DOMAIN-SUFFIX,ads-twitter.com,🛑 广告拦截
+- DOMAIN-SUFFIX,bat.bing.com,🛑 广告拦截
