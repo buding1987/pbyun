@@ -15,9 +15,9 @@ DOMAIN-SUFFIX,hxkba.com
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,pubads.g.doubleclick.net
 DOMAIN-SUFFIX,av380.net
-DOMAIN-SUFFIX,www.nvdvr.cn
-DOMAIN-SUFFIX,www.nvcam.net
-DOMAIN-SUFFIX,www.nvdvr.net
+DOMAIN-SUFFIX,nvdvr.cn
+DOMAIN-SUFFIX,nvcam.net
+DOMAIN-SUFFIX,nvdvr.net
 
 #无具体规则
 DOMAIN-SUFFIX,time.windows.com
