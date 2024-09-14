@@ -44,7 +44,7 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,qingting.fm
 DOMAIN-SUFFIX,didistatic.com
-DOMAIN-SUFFIX,cloudflare.com
+#DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,lencr.org
 
 #xunlei
