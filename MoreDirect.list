@@ -44,9 +44,13 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,qingting.fm
 DOMAIN-SUFFIX,didistatic.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,digicert.com
 
 #xunlei
 DOMAIN-SUFFIX,xbase.cloud
+DOMAIN-SUFFIX,pool.ntp.org
 
 #speedtest 
 DOMAIN-SUFFIX,jsinfo.net
