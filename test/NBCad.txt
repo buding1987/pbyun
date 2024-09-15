@@ -6,13 +6,15 @@
 - DOMAIN-SUFFIX,branch.io,🛑 广告拦截
 - DOMAIN-SUFFIX,imrworldwide.com,🛑 广告拦截
 - DOMAIN-SUFFIX,scorecardresearch.com,🛑 广告拦截
+- DOMAIN-SUFFIX,media.cwtv.com,🛑 广告拦截
 - DOMAIN-SUFFIX,fwmrm.net,🛑 广告拦截
 - DOMAIN-SUFFIX,redirector.googlevideo.com,🛑 广告拦截
 - DOMAIN-SUFFIX,innovid.com,🛑 广告拦截
 - DOMAIN-SUFFIX,ad-tech.nbcuni.com,🛑 广告拦截
 - DOMAIN-SUFFIX,tracker.nbcuas.com,🛑 广告拦截
 #不清楚
-- DOMAIN-SUFFIX,appsflyersdk.com,🛑 广告拦截
-- DOMAIN-SUFFIX,adt.hrzn-nxt.com,🛑 广告拦截
 - DOMAIN-SUFFIX,ads-twitter.com,🛑 广告拦截
 - DOMAIN-SUFFIX,bat.bing.com,🛑 广告拦截
+- DOMAIN-SUFFIX,appsflyersdk.com,🛑 广告拦截
+- DOMAIN-SUFFIX,adt.hrzn-nxt.com,🛑 广告拦截
+
