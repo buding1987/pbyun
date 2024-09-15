@@ -8,3 +8,14 @@ DOMAIN-SUFFIX,sis.jpush.io,REJECT
 DOMAIN-SUFFIX,jpush.cn,REJECT
 DOMAIN-SUFFIX,easytomessage.com,REJECT
 DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net,REJECT
+-------------------------------------------------
+DOMAIN-SUFFIX,pushregcheck.nvcam.net
+DOMAIN-SUFFIX,anythinktech.com
+DOMAIN-SUFFIX,report.appmetrica.yandex.net
+DOMAIN-SUFFIX,api16-access-sg.pangle.io
+DOMAIN-SUFFIX,mazu.m.qq.com
+DOMAIN-SUFFIX,net.mtgglobals.com
+DOMAIN-SUFFIX,sis.jpush.io
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,easytomessage.com
+DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net
