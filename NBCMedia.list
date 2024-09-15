@@ -1,10 +1,10 @@
-
 #NBC 国外媒体
 DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,nbc.co
 DOMAIN-SUFFIX,nbcuni.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,sp.auth.adobe.com
+DOMAIN-SUFFIX,entitlement.auth.adobe.com
 DOMAIN-SUFFIX,mparticle.com
 DOMAIN-SUFFIX,mparticle.map.fastly.net
 DOMAIN-SUFFIX,launchdarkly.com
@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,dcs-public-edge-tyo3-1735284737.ap-northeast-1.elb.amazonaws.com
 DOMAIN-SUFFIX,d1tcwf12y4kqv3.cloudfront.net
 DOMAIN-SUFFIX,d2h189c4a9rfw5.cloudfront.net
 DOMAIN-SUFFIX,dq0zd76k0g3kr.cloudfront.net
+DOMAIN-SUFFIX,d2926jmvsihu4k.cloudfront.net
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,vtwenty.com
@@ -28,14 +29,15 @@ DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,api.iterable.com
 DOMAIN-SUFFIX,nbcume.hb-api.omtrdc.net
 DOMAIN-SUFFIX,nbcume.sc.omtrdc.net
+DOMAIN-SUFFIX,nbcume.hb.omtrdc.net
 DOMAIN-SUFFIX,usanetwork.com
 DOMAIN-SUFFIX,nbcu.track.securedvisit.com
 DOMAIN-SUFFIX,mediatailor.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,ocsp.digicert.com
 DOMAIN-SUFFIX,cwtv-prod-elb.digitalsmiths.net
 DOMAIN-SUFFIX,cws-iad4-slb9.conviva.com
-DOMAIN-SUFFIX,d2926jmvsihu4k.cloudfront.net
-
+DOMAIN-SUFFIX,cdn.popupsmart.com
+DOMAIN-SUFFIX,cdn.cookielaw.org
 
 #CWTV 国外媒体
 DOMAIN-SUFFIX,cwtv.com
@@ -48,6 +50,7 @@ DOMAIN-SUFFIX,dtvce.com
 DOMAIN-SUFFIX,level3.net
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,nmrodam.com
+
 #ABC
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,go.com
