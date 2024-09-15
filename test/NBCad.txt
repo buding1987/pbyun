@@ -18,3 +18,22 @@
 - DOMAIN-SUFFIX,appsflyersdk.com,🛑 广告拦截
 - DOMAIN-SUFFIX,adt.hrzn-nxt.com,🛑 广告拦截
 
+#其他格式
+- DOMAIN-SUFFIX,pubads.g.doubleclick.net,DIRECT
+- DOMAIN-SUFFIX,securepubads.g.doubleclick.net,REJECT
+- DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
+- DOMAIN-SUFFIX,doubleclick.net,REJECT
+- DOMAIN-SUFFIX,branch.io,REJECT
+- DOMAIN-SUFFIX,imrworldwide.com,REJECT
+- DOMAIN-SUFFIX,scorecardresearch.com,REJECT
+- DOMAIN-SUFFIX,media.cwtv.com,REJECT
+- DOMAIN-SUFFIX,fwmrm.net,REJECT
+- DOMAIN-SUFFIX,redirector.googlevideo.com,REJECT
+- DOMAIN-SUFFIX,innovid.com,REJECT
+- DOMAIN-SUFFIX,ad-tech.nbcuni.com,REJECT
+- DOMAIN-SUFFIX,tracker.nbcuas.com,REJECT
+- DOMAIN-SUFFIX,ads-twitter.com,REJECT
+- DOMAIN-SUFFIX,bat.bing.com,REJECT
+- DOMAIN-SUFFIX,adt.hrzn-nxt.com,REJECT
+- DOMAIN-SUFFIX,appsflyersdk.com,REJECT
+- DOMAIN-SUFFIX,app-analytics-services.com,REJECT
