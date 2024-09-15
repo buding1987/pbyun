@@ -12,6 +12,7 @@
 - DOMAIN-SUFFIX,innovid.com,🛑 广告拦截
 - DOMAIN-SUFFIX,ad-tech.nbcuni.com,🛑 广告拦截
 - DOMAIN-SUFFIX,tracker.nbcuas.com,🛑 广告拦截
+- DOMAIN-SUFFIX,mobile-collector.newrelic.com,🛑 广告拦截
 #不清楚
 - DOMAIN-SUFFIX,ads-twitter.com,🛑 广告拦截
 - DOMAIN-SUFFIX,bat.bing.com,🛑 广告拦截
