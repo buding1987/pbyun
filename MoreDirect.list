@@ -78,6 +78,15 @@ DOMAIN-SUFFIX,alibaba-inc.com
 
 #BAIDUpan
 DOMAIN-SUFFIX,antpcdn.com
+#瞄眼精灵
+DOMAIN-SUFFIX,jooancloud.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,anythinktech.com
+DOMAIN-SUFFIX,toponad.com
+DOMAIN-SUFFIX,zhugeio.com
+DOMAIN-SUFFIX,tradplusad.com
 
 #天气
 DOMAIN-SUFFIX,i8tq.com
