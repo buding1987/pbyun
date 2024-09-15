@@ -1,7 +1,5 @@
-DOMAIN-SUFFIX,securepubads.g.doubleclick.net
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net
-
 #NBC app AD
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,census.ap-southeast-1.nielsencollections.com
