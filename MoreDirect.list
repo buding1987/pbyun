@@ -50,7 +50,8 @@ DOMAIN-SUFFIX,sectigo.com
 #xunlei
 DOMAIN-SUFFIX,xbase.cloud
 DOMAIN-SUFFIX,pool.ntp.org
-
+#QQmail
+DOMAIN-SUFFIX,weixinbridge.com
 #speedtest 
 DOMAIN-SUFFIX,jsinfo.net
 DOMAIN-SUFFIX,ooklaserver.net
