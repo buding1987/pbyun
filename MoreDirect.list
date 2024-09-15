@@ -14,9 +14,6 @@ DOMAIN-SUFFIX,gtjadev.com
 DOMAIN-SUFFIX,hxkba.com
 DOMAIN-SUFFIX,digicert-cn.com
 DOMAIN-SUFFIX,av380.net
-DOMAIN-SUFFIX,nvdvr.cn
-DOMAIN-SUFFIX,nvcam.net
-DOMAIN-SUFFIX,nvdvr.net
 
 #无具体规则
 DOMAIN-SUFFIX,time.windows.com
@@ -80,9 +77,7 @@ DOMAIN-SUFFIX,antpcdn.com
 #瞄眼精灵
 DOMAIN-SUFFIX,jooancloud.com
 DOMAIN-SUFFIX,adukwai.com
-DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com
 DOMAIN-SUFFIX,volces.com
-DOMAIN-SUFFIX,anythinktech.com
 DOMAIN-SUFFIX,toponad.com
 DOMAIN-SUFFIX,zhugeio.com
 DOMAIN-SUFFIX,tradplusad.com
