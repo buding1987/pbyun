@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,securepubads.g.doubleclick.net
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net
-DOMAIN-SUFFIX,jsdelivr.net
+
 #NBC app AD
 DOMAIN-SUFFIX,census.ap-southeast-1.nielsencollections.com
 DOMAIN-SUFFIX,bifrost-app-error-us-east-1-kaas-blue.sre.nielsen.com
