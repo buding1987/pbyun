@@ -48,6 +48,13 @@ DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,globalsign.com
+
+#chinamobile10086
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,dutils.com
+DOMAIN-SUFFIX,mmarket.com
+DOMAIN-SUFFIX,komect.com
+DOMAIN-SUFFIX,yksdks.com
 #xunlei
 DOMAIN-SUFFIX,xbase.cloud
 DOMAIN-SUFFIX,pool.ntp.org
