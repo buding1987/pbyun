@@ -27,6 +27,8 @@
 - DOMAIN-SUFFIX,branch.io,REJECT
 - DOMAIN-SUFFIX,imrworldwide.com,REJECT
 - DOMAIN-SUFFIX,scorecardresearch.com,REJECT
+
+#nbc clash 
 - DOMAIN-SUFFIX,media.cwtv.com,REJECT
 - DOMAIN-SUFFIX,fwmrm.net,REJECT
 - DOMAIN-SUFFIX,redirector.googlevideo.com,REJECT
