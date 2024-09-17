@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,a.nel.cloudflare.com
+DOMAIN-SUFFIX,cdn.jsdelivr.net
 #xiaoheimi
 DOMAIN-SUFFIX,m3u8.hmrvideo.com
 DOMAIN-SUFFIX,assets.heimuer.tv
