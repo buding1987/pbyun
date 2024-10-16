@@ -18,13 +18,13 @@ DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
 DOMAIN,sis.jpush.io
 DOMAIN,v5-be-pack.pglstatp-toutiao.com
 DOMAIN,zlsdk.1rtb.net
+DOMAIN,mon.zijieapi.com
+DOMAIN,s.adxvip.com
+DOMAIN-SUFFIX,easytomessage.com
+DOMAIN-SUFFIX,adstatistics.av380.net
 DOMAIN-SUFFIX,ad.track.66mobi.com
 DOMAIN-SUFFIX,maplehaze.cn
 DOMAIN-SUFFIX,pushregcheck.nvcam.net
 DOMAIN-SUFFIX,toblog.ctobsnssdk.com
-DOMAIN-SUFFIX,zijieapi.com,REJECT // Added for: tnc3-alisc1.zijieapi.com:443
-DOMAIN-SUFFIX,s.mzstatic.com,REJECT // Added for: s.mzstatic.com:443
-DOMAIN,mon.zijieapi.com,REJECT // Added for: mon.zijieapi.com:443
-DOMAIN,s.adxvip.com,REJECT // Added for: s.adxvip.com:443
-DOMAIN,easytomessage.com,REJECT // Added for: easytomessage.com:19000
-DOMAIN,adstatistics.av380.net,REJECT // 
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,s.mzstatic.com
