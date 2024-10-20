@@ -4,6 +4,18 @@ DOMAIN-SUFFIX,api.ipify.org
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net
+#xiaomi_tvAD
+DOMAIN-SUFFIX,ad.mi.com
+DOMAIN-SUFFIX,ad.xiaomi.com
+DOMAIN-SUFFIX,cdn.ad.xiaomi.com
+DOMAIN-SUFFIX,log.ad.xiaomi.com
+DOMAIN-SUFFIX,api.ad.xiaomi.com
+DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
+DOMAIN-SUFFIX,o2o.api.xiaomi.com
+DOMAIN-SUFFIX,gallery.pandora.xiaomi.com
+DOMAIN-SUFFIX,mishop.pandora.xiaomi.com
+DOMAIN-SUFFIX,upgrade.mishop.pandora.xiaomi.com
+DOMAIN-SUFFIX,mitv.tracking.miui.com
 #NBC app AD
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,census.ap-southeast-1.nielsencollections.com
