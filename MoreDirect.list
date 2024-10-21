@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,www.surge-activation.com
 #DOMAIN-SUFFIX,securepubads.g.doubleclick.net
 # MyList
 # 域名后缀匹配
+DOMAIN-SUFFIX,miuiver.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,10jqka.com.cn
 DOMAIN-SUFFIX,123ths.com
