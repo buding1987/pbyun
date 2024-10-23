@@ -39,8 +39,8 @@ DOMAIN-SUFFIX,cwtv-prod-elb.digitalsmiths.net
 DOMAIN-SUFFIX,cws-iad4-slb9.conviva.com
 DOMAIN-SUFFIX,cdn.popupsmart.com
 DOMAIN-SUFFIX,cdn.cookielaw.org
-geolocation.digitalsvc.apps.nbcuni.com
-drmproxy.digitalsvc.apps.nbcuni.com
+DOMAIN-SUFFIX,geolocation.digitalsvc.apps.nbcuni.com
+DOMAIN-SUFFIX,drmproxy.digitalsvc.apps.nbcuni.com
 
 #CWTV 国外媒体
 DOMAIN-SUFFIX,cwtv.com
