@@ -71,3 +71,8 @@ DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,abcnews.com
 DOMAIN-SUFFIX,abcnewsfe.com
 DOMAIN-SUFFIX,abcnews.entertainment.client.dtci.technology
+#fox
+DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,foxbusiness.com
+DOMAIN-SUFFIX,foxweather.com
+DOMAIN-SUFFIX,cf-images.us-east-1.prod.boltdns.net
