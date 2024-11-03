@@ -1,12 +1,3 @@
-DOMAIN-SUFFIX,static.cloudflareinsights.com
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,a.nel.cloudflare.com
-DOMAIN-SUFFIX,cdn.jsdelivr.net
-DOMAIN-SUFFIX,surge.community
-DOMAIN-SUFFIX,feednews.com
-DOMAIN-SUFFIX,91tvb.cc
-DOMAIN-SUFFIX,zb.91tvb.cc
 #xiaoheimi
 DOMAIN-SUFFIX,m3u8.hmrvideo.com
 DOMAIN-SUFFIX,assets.heimuer.tv
