@@ -40,3 +40,18 @@
 - DOMAIN-SUFFIX,adt.hrzn-nxt.com,REJECT
 - DOMAIN-SUFFIX,appsflyersdk.com,REJECT
 - DOMAIN-SUFFIX,app-analytics-services.com,REJECT
+######TEXT
+mobile-collector.newrelic.com
+census.ap-southeast-1.nielsencollections.com
+bifrost-app-error-us-east-1-kaas-blue.sre.nielsen.com
+video-ads-module.ad-tech.nbcuni.com
+redirector.googlevideo.com
+tracker.nbcuas.com
+media.cwtv.com
+v.fwmrm.net
+innovid.com
+securepubads.g.doubleclick.net
+googleads.g.doubleclick.net
+branch.io
+imrworldwide.com
+scorecardresearch.com
