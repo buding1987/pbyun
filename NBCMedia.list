@@ -79,3 +79,8 @@ DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,foxbusiness.com
 DOMAIN-SUFFIX,foxweather.com
 DOMAIN-SUFFIX,cf-images.us-east-1.prod.boltdns.net
+#cnn
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,api.cnn.io
+DOMAIN-SUFFIX,politics.api.cnn.io
+DOMAIN-SUFFIX,ngtv.io
