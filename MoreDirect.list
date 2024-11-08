@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,www.surge-activation.com
 #DOMAIN-SUFFIX,securepubads.g.doubleclick.net
 DOMAIN-SUFFIX,2.android.pool.ntp.org
 DOMAIN-SUFFIX,android.pool.ntp.org
-DOMAIN-SUFFIX,pool.ntp.org
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,mitvos.com
