@@ -12,6 +12,7 @@ googleads.g.doubleclick.net
 branch.io
 imrworldwide.com
 scorecardresearch.com
+googleads.g.doubleclick-cn.net
 0b9b5eada8.com
 0ef2473ad8.com
 23cc6cc4e9.com
