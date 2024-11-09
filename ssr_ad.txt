@@ -1,3 +1,5 @@
+api.ip.sb
+api-ipv4.ip.sb
 api.ipify.org
 mobile-collector.newrelic.com
 census.ap-southeast-1.nielsencollections.com
