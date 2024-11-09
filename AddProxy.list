@@ -6,3 +6,10 @@ DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,surge.community
 DOMAIN-SUFFIX,91tvb.cc
 DOMAIN-SUFFIX,zb.91tvb.cc
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,android.pool.ntp.org
+DOMAIN-SUFFIX,2.android.pool.ntp.org
+DOMAIN-SUFFIX,linkpc.net
+DOMAIN-SUFFIX,wow.linkpc.net
+DOMAIN-SUFFIX,serv00.net
+DOMAIN-SUFFIX,yhzb.serv00.net
