@@ -1,7 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-DOMAIN-SUFFIX,pubads.g.doubleclick.net
-DOMAIN-SUFFIX,www.surge-activation.com
-#DOMAIN-SUFFIX,securepubads.g.doubleclick.net
+DOMAIN,2.android.pool.ntp.org
+DOMAIN,pubads.g.doubleclick.net
+DOMAIN,www.surge-activation.com
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,mitvos.com
