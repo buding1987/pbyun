@@ -7,6 +7,9 @@ tracker.nbcuas.com
 media.cwtv.com
 v.fwmrm.net
 innovid.com
+ads.stickyadstv.com
+ad.doubleclick.net
+pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 googleads.g.doubleclick.net
 branch.io
