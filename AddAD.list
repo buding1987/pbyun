@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,sl.hpplay.cn
 DOMAIN-SUFFIX,rp.hpplay.cn
 DOMAIN-SUFFIX,lebo.cn
 #NBC app AD
+
+DOMAIN-SUFFIX,nbcu.sv.rkdms.com
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,census.ap-southeast-1.nielsencollections.com
 DOMAIN-SUFFIX,bifrost-app-error-us-east-1-kaas-blue.sre.nielsen.com
