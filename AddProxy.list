@@ -4,8 +4,10 @@ DOMAIN-SUFFIX,static.cloudflareinsights.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,surge.community
 DOMAIN-SUFFIX,91tvb.cc
-DOMAIN,zb.91tvb.cc
-#DOMAIN-SUFFIX,linkpc.net
-#DOMAIN-SUFFIX,serv00.net
-#DOMAIN,wow.linkpc.net
-#DOMAIN,yhzb.serv00.net
+DOMAIN-SUFFIX,zb.91tvb.cc
+DOMAIN-SUFFIX,linkpc.net
+DOMAIN-SUFFIX,wow.linkpc.net
+DOMAIN-SUFFIX,serv00.net
+DOMAIN-SUFFIX,yhzb.serv00.net
+DOMAIN-SUFFIX,112114.free.hr
+DOMAIN-SUFFIX,epg.112114.free.hr
