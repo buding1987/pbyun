@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,cdn.popupsmart.com
 DOMAIN-SUFFIX,cdn.cookielaw.org
 DOMAIN-SUFFIX,geolocation.digitalsvc.apps.nbcuni.com
 DOMAIN-SUFFIX,drmproxy.digitalsvc.apps.nbcuni.com
+DOMAIN-SUFFIX,watch.auth.api.espn.com
 
 #CWTV 国外媒体
 DOMAIN-SUFFIX,cwtv.com
