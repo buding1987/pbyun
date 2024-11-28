@@ -3,6 +3,7 @@ DOMAIN,pubads.g.doubleclick.net
 DOMAIN,www.surge-activation.com
 DOMAIN-SUFFIX,android.pool.ntp.org
 DOMAIN-SUFFIX,api.auth.adobe.com
+DOMAIN-SUFFIX,tags.tiqcdn.com
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,mitvos.com
