@@ -1,3 +1,12 @@
+#calc_ad
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net
+DOMAIN-SUFFIX,doubleclick-cn.net
+DOMAIN-SUFFIX,520yidui.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+#ip
 DOMAIN-SUFFIX,api.ip.sb
 DOMAIN-SUFFIX,api-ipv4.ip.sb
 DOMAIN-SUFFIX,api.ipify.org
