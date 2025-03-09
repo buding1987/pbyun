@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,REJECT // Added for: api-access.pangolin-sdk-toutiao1.com:443
+DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net,REJECT // Added for: googleads.g.doubleclick-cn.net:443
+DOMAIN-SUFFIX,doubleclick-cn.net,REJECT // Added for: googleads.g.doubleclick-cn.net:443
+DOMAIN-SUFFIX,520yidui.com,REJECT // Added for: ks-market.520yidui.com:443
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT // Added for: sf3-fe-tos.pglstatp-toutiao.com:443
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT // Added for: api-access.pangolin-sdk-toutiao.com:443
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,mobads-logs.baidu.com,REJECT // Added for: mobads-logs.baidu.com:443
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com
