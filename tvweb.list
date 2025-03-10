@@ -1,6 +1,8 @@
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,feednews.com
 DOMAIN-SUFFIX,surge.community
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,static.cloudflareinsights.com
 #ted
 DOMAIN-SUFFIX,ted.com
 DOMAIN-SUFFIX,tedcdn.com
