@@ -124,6 +124,11 @@ DOMAIN-SUFFIX,pi.ispot.tv
 DOMAIN-SUFFIX,vtrk.dv.tech
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,paramount.tech
+DOMAIN-SUFFIX,cdn-vz.ts.mtvnservices.com
+DOMAIN-SUFFIX,b.videoamp.com
+
 #bloomberg
 DOMAIN-SUFFIX,customer.core.one.accedo.tv
 DOMAIN-SUFFIX,customer.static.core.one.accedo.tv
