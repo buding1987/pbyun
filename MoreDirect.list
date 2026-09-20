@@ -1,7 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 DOMAIN,pubads.g.doubleclick.net
 DOMAIN,www.surge-activation.com
-DOMAIN-SUFFIX,android.pool.ntp.org
+DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,api.auth.adobe.com
 DOMAIN-SUFFIX,tags.tiqcdn.com
 DOMAIN-SUFFIX,pie.org
