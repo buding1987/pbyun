@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,api.auth.adobe.com
 DOMAIN-SUFFIX,tags.tiqcdn.com
 DOMAIN-SUFFIX,pie.org
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,unpkg.com
 # 山东建大仁科
 DOMAIN-SUFFIX,jdrkck.com
